@@ -4,7 +4,7 @@
 
 1. Review linked_list.rs and use it to repsent bitcoin data in block.rs file, add types and fields as you see fit.
 
-1. Add functions simar to the capabilities of bitcoin core rpc commands. It doesn't have to be comprehensive.
+1. Add functions similar to the capabilities of bitcoin core rpc commands. It doesn't have to be comprehensive.
 
 For the task 3, implement functionalities to add a new block, query a block based on height,
 blochash etc.,
